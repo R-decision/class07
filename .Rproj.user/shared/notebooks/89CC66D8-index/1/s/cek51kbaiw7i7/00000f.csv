@@ -1,0 +1,3 @@
+"0","starwars %>%"
+"0","  group_by(gender) %>%"
+"0","  summarize(avg_ht = mean(height, na.rm = TRUE))"
